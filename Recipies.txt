@@ -6,4 +6,8 @@ salat
 chicken fry 
 beand 
 egg
+
+fish
+
 final
+
